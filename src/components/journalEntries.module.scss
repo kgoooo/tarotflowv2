@@ -1,0 +1,36 @@
+h2 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: 200;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited,
+a:active {
+  color: #f6f6f6;
+}
+
+a:hover {
+  color: #cccccc;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.entryContianer {
+  background: rgba(255, 255, 255, 0.075);
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.timeStamp {
+  font-size: 1.2rem;
+  color: #cccccc;
+}
